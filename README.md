@@ -1,25 +1,20 @@
 # webos
 webos is the collection of all the simulations of Operating systems made using `JavaScript`
-to add your project:- 
-1) replace the following then put it in `index.html` and then send a pull request 
-```html
-<div class="card">
-    <div class="card-border-top"></div>
-    <div class="img">
-      <img src="[image link or pr image in `/images`]">
-    </div>
-    <span>[Name]</span>
-    <button onclick="goto(`[Link]`)"> Run </button>
-</div>
+
+## Adding your project
+
+Add your project to `data.json` and send a pull request:
+
+```json
+{
+  "name": "Your OS Name",
+  "image": "images/your-logo.png",
+  "url": "https://your-demo-url.com"
+}
 ```
-For example you have your demo at `https://dynamicos.netlify.app` , and the logo is `images/os.png` then the code will be as follows
-```html
-<div class="card">
-    <div class="card-border-top"></div>
-    <div class="img">
-      <img src="images/os.png">
-    </div>
-    <span>AvdanOS</span>
-    <button onclick="goto(`https://dynamicos.netlify.app`)"> Run </button>
-</div>
-```
+
+- `name` — display name of your OS
+- `image` — path to your logo (place it in `/images/` or use an external URL)
+- `url` — link to your OS demo
+
+Add your entry to the end of the array (before the closing `]`).

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Windows 11",
+    "image": "images/win11.png",
+    "url": "https://win11.blueedge.me"
+  },
+  {
+    "name": "Windows 10",
+    "image": "images/windows10.png",
+    "url": "https://win-10.vercel.app/"
+  },
+  {
+    "name": "Windows XP",
+    "image": "images/xp.png",
+    "url": "https://winxp.vercel.app/"
+  },
+  {
+    "name": "MacOS",
+    "image": "images/apple.png",
+    "url": "https://macos-web.app/"
+  },
+  {
+    "name": "Ubuntu",
+    "image": "images/ubuntu.png",
+    "url": "https://vivek9patel.github.io/"
+  },
+  {
+    "name": "Windows 98",
+    "image": "images/98.png",
+    "url": "https://98.js.org/"
+  },
+  {
+    "name": "Windows 96",
+    "image": "images/win96.png",
+    "url": "https://windows96.net"
+  },
+  {
+    "name": "Windows 12 (Concept)",
+    "image": "https://win12.tech/icon/logo.svg",
+    "url": "https://win12.tech/desktop"
+  },
+  {
+    "name": "Reborn XP",
+    "image": "https://xp.quenq.com/favicon.png",
+    "url": "https://xp.quenq.com"
+  },
+  {
+    "name": "Hyggshi OS Web Edition",
+    "image": "https://raw.githubusercontent.com/HyggshiOSDeveloper/hyggshi-os-website/refs/heads/main/Resources/favicon.ico",
+    "url": "https://hyggshiosdeveloper.github.io/hyggshi-os-website/OSmain.html"
+  },
+  {
+    "name": "paperOS",
+    "image": "https://paperos.paperproductions.org/src/paperOS/boot/pKern/PaperProductions.png",
+    "url": "https://paperos.paperproductions.org"
+  }
+]
