@@ -6,8 +6,10 @@
     var card = document.createElement('div');
     card.className = 'card';
     card.innerHTML =
+      '<div class="card-body">' +
       '<div class="img"><img src="' + item.image + '" alt="' + item.name + '"></div>' +
       '<span>' + item.name + '</span>' +
+      '</div>' +
       '<button>Run</button>';
     card.querySelector('button').addEventListener('click', function () {
       window.open(item.url);
