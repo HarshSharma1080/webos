@@ -1,6 +1,13 @@
 # webos
 webos is the collection of all the simulations of Operating systems made using `JavaScript`
 
+## Getting started
+To preview the site locally before submitting a PR:
+'''bash
+git clone https://github.com/DynamicCode1/webos.git
+cd webos
+'''
+
 ## Adding your project
 
 Add your project to `data.json` and send a pull request:
