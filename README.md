@@ -8,6 +8,9 @@ git clone https://github.com/DynamicCode1/webos.git
 cd webos
 '''
 
+Then just open '''index.html''' in your browser, or serve it locally.
+
+
 ## Adding your project
 
 Add your project to `data.json` and send a pull request:
