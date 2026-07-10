@@ -3,10 +3,10 @@ webos is the collection of all the simulations of Operating systems made using `
 
 ## Getting started
 To preview the site locally before submitting a PR:
-'''bash
+```bash
 git clone https://github.com/DynamicCode1/webos.git
 cd webos
-'''
+```
 
 Then just open '''index.html''' in your browser, or serve it locally.
 
