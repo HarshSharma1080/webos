@@ -8,7 +8,7 @@ git clone https://github.com/DynamicCode1/webos.git
 cd webos
 ```
 
-Then just open '''index.html''' in your browser, or serve it locally.
+Then just open ```index.html``` in your browser, or serve it locally.
 
 
 ## Adding your project
